@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=FFBB35E4&center=true&vCenter=true&random=false&width=435&lines=FrontEnd+Developer+;Angular" alt="Typing SVG">
 </p>
 <p align="center">
-Hey there! 👋 I'm Mohammed Shaaban, a Junior Frontend Developer|Angular passionate about creating beautiful and interactive web experiences. Welcome to my GitHub profile!
+Hey there! 👋 I'm Mohammed Shaaban, a Junior Frontend Developer | Angular passionate about creating beautiful and interactive web experiences. Welcome to my GitHub profile!
 </p>
 
 # About Me
