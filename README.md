@@ -21,7 +21,7 @@ I also have experience in integrating with <b>APIs</b> and handling backend serv
 
 Feel free to reach out to me via email or phone:
 
-- Email: [sh3ban55335@gmail.com](mailto:sh3ban55335@gmail.com) 📧
+- Email: [mohamed.shaaban.dev@gmail.com](mailto:mohamed.shaaban.dev@gmail.com) 📧
 - Phone: [+201016654705](tel:+201016654705) 📞
 - WhatsApp: [+201016654705](https://wa.me/201016654705?text=Hello%20Mohammed!%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.) 📱
 
